@@ -62,13 +62,7 @@ body {
     font-size: 18px;
 }
 
-/* span h1::after{
-    content: '';
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background-color: #00fd65;
-} */
+*/
 .main-text-box .green-circle{
     width: 10px;
     height: 10px;
@@ -108,21 +102,6 @@ body {
         transform: translateY(-100px);
     }
     
-}
-
-#footer {
-    padding: 16px;
-    margin-top: 32px;
-    text-align: center;
-}
-
-#social-media-links {
-    list-style: none;
-}
-
-#social-media-links li {
-    display: inline;
-    margin: 16px;
 }
 
 a{
